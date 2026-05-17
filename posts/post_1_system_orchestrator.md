@@ -1,4 +1,4 @@
-# Day 4: System Orchestrator
+# System Orchestrator
 
 The biggest shift in software engineering isn't just that AI writes our code. It's the fact that our roles have officially transitioned from 'Code Writers' to 'System Orchestrators'.
 
