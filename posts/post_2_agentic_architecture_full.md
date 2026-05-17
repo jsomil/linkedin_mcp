@@ -1,4 +1,4 @@
-# Agentic Architecture (Full Text Post)
+# Agentic Architecture
 
 System design isn't just for traditional web apps anymore. Welcome to the era of Agentic Architecture. 🤖🏗️
 
