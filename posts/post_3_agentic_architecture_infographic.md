@@ -1,4 +1,4 @@
-# Agentic Architecture (Infographic Caption)
+# Agentic Architecture
 
 Are you applying traditional system design to your AI projects? 
 
