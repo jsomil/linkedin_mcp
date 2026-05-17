@@ -1,5 +1,7 @@
 # Agentic Architecture
 
+![Agentic Architecture Infographic](ai_system_design_infographic.png)
+
 Are you applying traditional system design to your AI projects? 
 
 As we shift from single-prompt LLMs to autonomous, multi-agent systems, traditional architecture is getting a massive AI upgrade. I put together this quick cheat sheet on how core distributed system concepts translate to the world of Agentic AI. 
