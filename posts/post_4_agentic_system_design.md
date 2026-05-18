@@ -1,7 +1,8 @@
-import asyncio
-from linkedin_automation import automation
+# AI System Design: Trade-offs in Agentic Architectures
 
-post_text = """When designing a production-grade agentic system from scratch, the hardest part isn't knowing what the components do. It's knowing how they connect, and defending those trade-offs.
+![AI System Design Diagram](ai_interview_diagram.png)
+
+When designing a production-grade agentic system from scratch, the hardest part isn't knowing what the components do. It's knowing how they connect, and defending those trade-offs.
 
 Imagine a blank canvas. You have an orchestrator, sub-agents, memory module, tool registry, vector store, LLM gateway, observability layer, and guardrails.
 
@@ -23,18 +24,4 @@ Knowing what each component does isn't enough. You need to know:
 
 That's system design in AI. Not tools. Decisions.
 
-Have you had to make this trade-off in your agentic workflows? How did you approach it?"""
-
-# Generic path for GitHub tracking (do not use hardcoded username)
-image_path = r"./posts/ai_interview_diagram.png"
-
-async def main():
-    try:
-        print("Starting automated post 4 (Agentic System Design Trade-offs) with image...")
-        result = await automation.create_post(text=post_text, image_path=image_path)
-        print("Result:", result)
-    finally:
-        await automation.stop()
-
-if __name__ == "__main__":
-    asyncio.run(main())
+Have you had to make this trade-off in your agentic workflows? How did you approach it?
